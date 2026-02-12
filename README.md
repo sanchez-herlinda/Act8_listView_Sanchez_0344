@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Act8_listView_Sanchez_0344
+listView en Flutter
+<img width="380" height="624" alt="image" src="https://github.com/user-attachments/assets/e658a1d0-271e-493e-a26f-6969b94c79a6" />
+<img width="511" height="574" alt="image" src="https://github.com/user-attachments/assets/a24e9280-fab5-4fff-a5aa-2aeb0ce8a569" />
